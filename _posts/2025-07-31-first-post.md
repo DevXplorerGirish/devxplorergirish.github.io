@@ -1,32 +1,42 @@
 ---
 layout: post
-title: Team Strike
-subtitle: Fast-paced 2D multiplayer action!
+title: Bullet Blitz
+subtitle: Fast-paced 2D action!
+thumbnail-img: /assets/img/thumb.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [multiplayer, unity, 2d]
+tags: [Unity, 2D, Platformer]
 comments: true
 mathjax: true
 author: Girish Patil
 ---
 
 <!-- success warning error note -->
-<!-- {: .box-success} -->
+{: .box-success}
+Bullet Blitz is a fast-paced 2D shooter built in Unity, featuring smooth character movement, shooting mechanics, and AI-controlled enemies. The game includes respawn, weapon pickup systems, and a dynamic combat flow designed to keep players engaged. Future plans include adding multiplayer functionality for an even more exciting and replayable experience.
 
 
-I'm excited to share details about my first game project: **Team Strike**.
 
-This is a 2D multiplayer game inspired by classics like Contra. Players can join matches either over a local network (LAN) or via the internet, making it easy for friends to team up or compete against each other. The game supports both cooperative and competitive modes, allowing players to play as allies or as opponents.
+I'm excited to share details about my first game project: **Bullet Blitz**.
+
+Bullet Blitz is a fast-paced 2D shooter built in Unity, featuring smooth character movement, shooting mechanics, and AI-controlled enemies. The game includes respawn, weapon pickup systems, and a dynamic combat flow designed to keep players engaged. Future plans include adding multiplayer functionality for an even more exciting and replayable experience.
 
 ### Key Features
 
-- **Multiplayer Support:** Play with friends on LAN or online.
-- **Team or Solo Play:** Choose to collaborate or compete.
-- **Collectibles:** Find items that provide healing, ammo refills, and a variety of weapons.
-- **Dynamic Gameplay:** The game ends when the timer runs out, and the player with the highest score is declared the winner.
-- **Teleportation Portal:** A unique portal mechanic lets players instantly move from one part of the map to another, adding a strategic twist to the gameplay.
+- **Responsive Player Controls** – Implemented precise 2D movement, aiming, and shooting mechanics.
+- **AI-Controlled Bots** – Designed enemy AI capable of ranged and melee combat to challenge players.
+- **Respawn & Invincibility Systems** – Balanced gameplay with respawn delays and temporary invulnerability.
+- **Random Weapon Pickup System** – Added dynamic gun selection for variety in combat encounters.
+- **Kill Feed System** – Displays real-time match updates for player and AI eliminations.
+- **Replayable Combat Loop** – Combined bots, weapons, and respawn mechanics for engaging matches.
+- **Future Multiplayer Support** – Planned addition of online multiplayer for competitive gameplay.
 
-This project was a great learning experience, helping me understand the fundamentals of multiplayer networking, game mechanics, and level design. I'm looking forward to building even more exciting games in the future!
+This project was a great learning experience, helping me understand the fundamentals of Game Mechanics, Enemy AI and Level Design. I'm looking forward to building even more exciting games in the future!
 
+**Game Images**-
 
-Thank you for reading about my journey with Team Strike.
+![Image 1](<../assets/img/Screenshot 2025-09-29 144831.png>)
+
+![Image 2](<../assets/img/Screenshot 2025-09-29 145023.png>) 
+
+Thank you for reading about my journey with Bullet Blitz.

@@ -32,7 +32,8 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
+avatar: "assets/img/generated-image(2).png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -54,7 +55,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: DevXplorerGirish
-  twitter: DevXplorerGirish
+  # twitter: DevXplorerGirish
   linkedin: girish-p-b3745128a
   # patreon: DeanAttali
   # youtube: "@daattali"

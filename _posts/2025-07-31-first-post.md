@@ -2,9 +2,9 @@
 layout: post
 title: Bullet Blitz
 subtitle: Fast-paced 2D action!
-thumbnail-img: /assets/img/thumb.png
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+# thumbnail-img: /assets/img/thumb.png
+# gh-repo: daattali/beautiful-jekyll
+# gh-badge: [star, fork, follow]
 tags: [Unity, 2D, Platformer]
 comments: true
 mathjax: true
@@ -13,13 +13,8 @@ author: Girish Patil
 
 <!-- success warning error note -->
 {: .box-success}
-Bullet Blitz is a fast-paced 2D shooter built in Unity, featuring smooth character movement, shooting mechanics, and AI-controlled enemies. The game includes respawn, weapon pickup systems, and a dynamic combat flow designed to keep players engaged. Future plans include adding multiplayer functionality for an even more exciting and replayable experience.
+**Bullet Blitz** is a fast-paced 2D shooter built in Unity, featuring smooth character movement, shooting mechanics, and AI-controlled enemies. The game includes respawn, weapon pickup systems, and a dynamic combat flow designed to keep players engaged. Future plans include adding multiplayer functionality for an even more exciting and replayable experience.
 
-
-
-I'm excited to share details about my first game project: **Bullet Blitz**.
-
-Bullet Blitz is a fast-paced 2D shooter built in Unity, featuring smooth character movement, shooting mechanics, and AI-controlled enemies. The game includes respawn, weapon pickup systems, and a dynamic combat flow designed to keep players engaged. Future plans include adding multiplayer functionality for an even more exciting and replayable experience.
 
 ### Key Features
 
@@ -30,6 +25,9 @@ Bullet Blitz is a fast-paced 2D shooter built in Unity, featuring smooth charact
 - **Kill Feed System** – Displays real-time match updates for player and AI eliminations.
 - **Replayable Combat Loop** – Combined bots, weapons, and respawn mechanics for engaging matches.
 - **Future Multiplayer Support** – Planned addition of online multiplayer for competitive gameplay.
+- **Combat Balancing & Tuning** – Adjusted weapon damage, fire rates, and AI difficulty to create fair, skill-based encounters.
+- **Wave & Spawn Management** – Developed a system to control enemy spawn timing and difficulty scaling during matches.
+- **Optimized Object Pooling** – Implemented pooling for bullets and effects to enhance performance and reduce frame drops.
 
 This project was a great learning experience, helping me understand the fundamentals of Game Mechanics, Enemy AI and Level Design. I'm looking forward to building even more exciting games in the future!
 

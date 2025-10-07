@@ -4,7 +4,7 @@ title: About me
 subtitle:  Game Developer | 3D Artist | Freelancer
 ---
 
-Hello! I'm **Girish Patil**, a passionate game developer and 3D artist with hands-on experience in both Unreal Engine and Unity. I specialize in creating engaging games and interactive experiences, combining strong technical skills with creative vision.
+Hello! I'm **Girish Patil**, Aspiring Gameplay Programmer skilled in Unreal Engine (C++ & Blueprints) and Unity (C#). Experienced in gameplay mechanics, AI programming, interactive systems, prototyping, and object-oriented programming (OOP). Passionate about creating engaging player experiences and contributing technical expertise and creativity in professional game development.
 
 
 ### Skills & Tools
@@ -15,10 +15,11 @@ Hello! I'm **Girish Patil**, a passionate game developer and 3D artist with hand
 
 ### Projects
 
-- **2D Platformer:** Developed a Mario-inspired platformer game.
-- **Multiplayer Shooter:** Built a 2D multiplayer shooter similar to Mini Militia.
-- **3D Survival Game:** Currently designing a 3D survival adventure (in progress).
-- **Zombie Survival:** Planning a future zombie survival project.
+- **Bullet Blitz:** Developed a platformer shooter game inspired by Mini Militia.
+- **Ultimate Jungle Survival 3D:** Built a 3D Survival Game with Crafting and Animal Hunting features.
+- **Jungle Escape:** Made a Endless Runner Game as my first project in Unreal Engine.
+- **FlameBound:** Developed a Shooting 2D Platformer Game in Unreal Engine.
+- **Predator AI** Making a Game which Majorly Focuses on implementing Enemy AI, making the Enenmy aware of the environment and react according to the situation and attack the player.
 
 ### Professional Status
 

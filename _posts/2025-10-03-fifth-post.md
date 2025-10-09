@@ -39,6 +39,8 @@ This project was also great learning experience, helping me understand the funda
 
 ![Image 3](<../assets/img/New folder/HighresScreenshot00012.png>)
 
+![Image 5](<../assets/img/New folder/HighresScreenshot00013.png>)
+
 ![Image 4](<../assets/img/New folder/HighresScreenshot00008.png>)
 
 Thank you for reading about my journey with **Predator AI**.

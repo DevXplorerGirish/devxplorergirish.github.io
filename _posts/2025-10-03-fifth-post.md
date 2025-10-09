@@ -33,11 +33,12 @@ This project was also great learning experience, helping me understand the funda
 
 **Game Images**-
 
-![Image 1](../assets/img/HighresScreenshot00002.png)
+![Image 1](<../assets/img/New folder/HighresScreenshot00004.png>)
 
-![Image 2](../assets/img/HighresScreenshot00003.png)
+![Image 2](<../assets/img/New folder/HighresScreenshot00005.png>)
 
+![Image 3](<../assets/img/New folder/HighresScreenshot00012.png>)
 
- 
+![Image 4](<../assets/img/New folder/HighresScreenshot00008.png>)
 
 Thank you for reading about my journey with **Predator AI**.

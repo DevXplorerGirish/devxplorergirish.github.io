@@ -33,8 +33,16 @@ This project was a great learning experience, helping me understand the fundamen
 
 **Game Images**-
 
-![Image 1](<../assets/img/Screenshot 2025-09-29 144831.png>)
 
-![Image 2](<../assets/img/Screenshot 2025-09-29 145023.png>) 
+![Image 1](<../assets/img/Screenshot 2025-09-29 145023.png>) 
+
+![Image 2](<../assets/img/WhatsApp Image 2025-10-11 at 12.03.51 PM.jpeg>)
+
+![Image 3](<../assets/img/WhatsApp Image 2025-10-11 at 12.03.52 PM(1).jpeg>)
+
+![Image 4](<../assets/img/WhatsApp Image 2025-10-11 at 12.03.52 PM.jpeg>)
+
+![Image 5](<../assets/img/WhatsApp Image 2025-10-11 at 12.03.50 PM.jpeg>)
+
 
 Thank you for reading about my journey with Bullet Blitz.

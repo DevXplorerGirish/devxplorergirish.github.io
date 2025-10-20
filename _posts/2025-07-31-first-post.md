@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bullet Blitz
-subtitle: Fast-paced 2D action!
+subtitle: Fast-Paced 2D Shooter with Intelligent Bots and Explosive Action
 # thumbnail-img: /assets/img/thumb.png
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -29,7 +29,7 @@ author: Girish Patil
 - **Wave & Spawn Management** – Developed a system to control enemy spawn timing and difficulty scaling during matches.
 - **Optimized Object Pooling** – Implemented pooling for bullets and effects to enhance performance and reduce frame drops.
 
-This project was a great learning experience, helping me understand the fundamentals of Game Mechanics, Enemy AI and Level Design. I'm looking forward to building even more exciting games in the future!
+Developing Bullet Blitz was a rewarding challenge that helped me sharpen my skills in AI programming, combat mechanics, and multiplayer-inspired gameplay logic. I learned to create engaging bot behaviors, integrate kill feed systems, and balance multiple weapon types. This project greatly improved my ability to design responsive 2D combat systems and manage real-time gameplay events efficiently.
 
 **Game Images**-
 
@@ -45,4 +45,4 @@ This project was a great learning experience, helping me understand the fundamen
 ![Image 5](<../assets/img/WhatsApp Image 2025-10-11 at 12.03.50 PM.jpeg>)
 
 
-Thank you for reading about my journey with Bullet Blitz.
+<!-- Thank you for reading about my journey with Bullet Blitz. -->

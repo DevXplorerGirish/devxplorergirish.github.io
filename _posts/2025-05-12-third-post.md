@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jungle Escape
-subtitle: Endless Runner Game.
+title: Jungle Sprint
+subtitle: Outrun the Wild, Every Step Could Be Your Last
 # thumbnail-img: /assets/img/thumb.png
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -13,13 +13,8 @@ author: Girish Patil
 
 <!-- success warning error note -->
 {: .box-success}
-**Jungle Escape** is a 3D endless runner developed in Unreal Engine, where the player is chased by a lion through a dense jungle. The player must dodge obstacles by moving left, right, or jumping while the chase intensifies. The game gradually increases difficulty as the player’s speed increments over time, creating a challenging survival experience.
+**Jungle Sprint** is a 3D endless runner developed in Unreal Engine, where the player is chased by a lion through a dense jungle. The player must dodge obstacles by moving left, right, or jumping while the chase intensifies. The game gradually increases difficulty as the player’s speed increments over time, creating a challenging survival experience.
 
-
-
-I'm excited to share details about my third game project: **Jungle Escape**.
-
-**Jungle Escape** is a 3D endless runner developed in Unreal Engine, where the player is chased by a lion through a dense jungle. The player must dodge obstacles by moving left, right, or jumping while the chase intensifies. The game gradually increases difficulty as the player’s speed increments over time, creating a challenging survival experience.
 
 ### Key Features
 
@@ -32,7 +27,7 @@ Endless Runner Controls – Move left, right, and jump to avoid jungle obstacles
 - **Collectibles & Power-ups** – Players can gather items like coins, boosts, or temporary shields to aid survival.
 - **Visual & Audio Feedback** – Dynamic camera angles, jungle ambient sounds, and lion roar effects enhance immersion and tension.
 
-This project was also great learning experience, helping me understand the fundamentals of Unreal Engine, Core Game Mechanics, Using Loops and Level Design. I'm looking forward to building even more exciting games in the future!
+Creating Jungle Sprint allowed me to explore fast-paced gameplay design and procedural challenge systems in Unreal Engine. I learned how to design smooth, responsive player movement and create a visually appealing environmental flow. This project strengthened my understanding of endless runner mechanics, camera systems, and performance optimization for fluid gameplay.
 
 **Game Images**-
 
@@ -42,4 +37,4 @@ This project was also great learning experience, helping me understand the funda
 
 ![Image 3](../assets/img/HighresScreenshot00001.png) 
 
-Thank you for reading about my journey with **Jungle Escape**.
+<!-- Thank you for reading about my journey with **Jungle Escape**. -->

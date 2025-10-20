@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FlameBound
-subtitle: 2D Platformer Game Made Using Unreal Engine.
+subtitle: Fight Through Fire and Fury in a Deadly Adventure
 # thumbnail-img: /assets/img/thumb.png
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -27,7 +27,7 @@ author: Girish Patil
 - **UI & Feedback Systems** – Designed HUD elements like health display and damage indicators to improve player awareness.
 - **Performance Optimization** – Reduced redundant event calls and optimized collision checks for smoother frame rates.
 
-This project was also great learning experience, helping me understand the fundamentals of Unreal Engine, Core Game Mechanics, Using Loops and Level Design. I'm looking forward to building even more exciting games in the future!
+Building Flamebound was a fantastic opportunity to combine level design, combat systems, and 2D platforming in Unreal Engine. I learned how to balance combat intensity with traversal flow and implement precise player controls. The project helped me refine my approach to level pacing, enemy design, and player feedback, creating a more polished gameplay experience.
 
 **Game Images**-
 
@@ -39,4 +39,4 @@ This project was also great learning experience, helping me understand the funda
 
 <!-- ![Image 4](<../assets/img/Screenshot 2025-09-19 230015.png>){: .mx-auto.d-block :} -->
 
-Thank you for reading about my journey with **FlameBound**.
+<!-- Thank you for reading about my journey with **FlameBound**. -->

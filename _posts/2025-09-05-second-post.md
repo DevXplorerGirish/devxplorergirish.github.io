@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ultimate Jungle Survival 3D
-subtitle: Intense Survival 3D Game.
+title: Survive the Wild
+subtitle: Endure, Adapt, and Conquer the Wilderness
 # thumbnail-img: /assets/img/thumb.png
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -13,7 +13,8 @@ author: Girish Patil
 
 <!-- success warning error note -->
 {: .box-success}
-**Ultimate Jungle Survival** 3D is a survival game built in Unity, where the player must gather resources, craft items, and fight against wild animals to survive. The game features a dynamic day/night cycle, resource management, and AI-driven animal encounters that evolve based on player actions.
+**Survive the Wild** is a 3D survival experience built in Unity that immerses players in the harsh wilderness, testing their endurance, creativity, and strategic decision-making. Players must explore, gather resources, craft tools, and battle hunger and wildlife threats to stay alive.
+The game includes a comprehensive Inventory and Crafting System, allowing players to collect items and combine them into useful tools or weapons. The dynamic wildlife AI system ensures animals behave naturally — some attack on sight, others flee or hunt in packs. Every decision impacts the player’s survival chances, promoting risk-versus-reward gameplay
 
 
 ### Key Features
@@ -27,7 +28,7 @@ author: Girish Patil
 - **Environmental Interaction** – Designed destructible trees, rocks, and collectibles to encourage exploration and resource use.
 - **Dynamic Difficulty Scaling** – Adjusted animal aggression and spawn rates based on player progress to maintain balance.
 
-This project was also great learning experience, helping me understand the fundamentals of Game Mechanics, Enemy AI and Level Design. I'm looking forward to building even more exciting games in the future!
+Survive the Wild taught me how to create system-driven gameplay centered around resource management, crafting, and survival mechanics. I gained valuable experience building a modular inventory system, implementing dynamic wildlife AI, and optimizing player interaction systems. It enhanced my understanding of game balance, player feedback loops, and how small design choices affect player immersion.
 
 **Game Images**-
 
@@ -39,4 +40,4 @@ This project was also great learning experience, helping me understand the funda
 
 ![Image 4](<../assets/img/Screenshot 2025-09-29 133838.png>)
 
-Thank you for reading about my journey with **Ultimate Jungle Survival 3D**.
+<!-- Thank you for reading about my journey with **Ultimate Jungle Survival 3D**. -->

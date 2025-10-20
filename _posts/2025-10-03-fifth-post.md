@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Predator AI
-subtitle: A Shooter Survival Game made using Unreal Engine.
+title: Operation Extraction
+subtitle: Tactical Rescue Under Fire
 # thumbnail-img: /assets/img/thumb.png
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -13,9 +13,8 @@ author: Girish Patil
 
 <!-- success warning error note -->
 {: .box-success}
-**Predator AI** is a prototype game developed in Unreal Engine, showcasing advanced enemy AI systems. The project highlights intelligent enemy behaviors such as patrolling, chasing, and attacking the player, with decision-making systems implemented in C++ and refined using Blueprints for flexibility and iteration.
-
-
+**Operation Extraction** is a high-intensity rescue mission game built in Unreal Engine, where players must infiltrate enemy territory and rescue a hostage within a strict time limit. The game emphasizes tactical combat, intelligent AI systems, and time-based mission challenges that test both precision and strategy.
+The enemy soldiers are powered by Behavior Trees and Blackboard Systems, enabling them to patrol, investigate, take cover, and coordinate attacks dynamically. Players engage in realistic gunfights where every second counts, balancing stealth and aggression to complete objectives under pressure.
 
 
 ### Key Features
@@ -29,7 +28,7 @@ author: Girish Patil
 - **Gameplay Focused on AI** – Designed specifically to demonstrate responsive and adaptive enemy AI.
 - **Optimized Performance** – C++ implementation ensures scalability for more complex AI.
 
-This project was also great learning experience, helping me understand the fundamentals of Unreal Engine, Implementing C++ in Unreal Engine, Core Game Mechanics and Advanced Enemy AI using Behaviour Trees. I'm looking forward to building even more exciting games in the future!
+Working on Operation Extraction was an incredible experience that deepened my understanding of AI systems in Unreal Engine, especially Behavior Trees and Blackboards. I learned how to design tactical combat scenarios and structure mission objectives under time pressure. This project helped me strengthen my skills in AI-driven gameplay design, C++ scripting, and mission-based level flow.
 
 **Game Images**-
 
@@ -43,4 +42,4 @@ This project was also great learning experience, helping me understand the funda
 
 ![Image 4](<../assets/img/New folder/HighresScreenshot00008.png>)
 
-Thank you for reading about my journey with **Predator AI**.
+<!-- Thank you for reading about my journey with **Predator AI**. -->

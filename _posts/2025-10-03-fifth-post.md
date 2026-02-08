@@ -5,7 +5,7 @@ subtitle: Tactical Rescue Under Fire
 # thumbnail-img: /assets/img/thumb.png
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-tags: [Unreal Engine, 3D, Survival, Shooter]
+tags: [Unreal Engine, 3D, Survival, Shooter, FPS]
 comments: true
 mathjax: true
 author: Girish Patil
@@ -24,9 +24,9 @@ The enemy soldiers are powered by Behavior Trees and Blackboard Systems, enablin
 - **Perception System** – Vision and detection when the AI notices the player.
 - **Audio Awareness** – Enemies can listen for player actions, reacting to sounds like footsteps or gunfire.
 - **Cover Tactics** – AI can decide when to hide and ambush the player from cover.
-- **Hybrid Workflow** – Core logic in C++, with Blueprints for animation and behavior tuning.
+<!-- - **Hybrid Workflow** – Core logic in C++, with Blueprints for animation and behavior tuning. -->
 - **Gameplay Focused on AI** – Designed specifically to demonstrate responsive and adaptive enemy AI.
-- **Optimized Performance** – C++ implementation ensures scalability for more complex AI.
+<!-- - **Optimized Performance** – C++ implementation ensures scalability for more complex AI. -->
 
 Working on Operation Extraction was an incredible experience that deepened my understanding of AI systems in Unreal Engine, especially Behavior Trees and Blackboards. I learned how to design tactical combat scenarios and structure mission objectives under time pressure. This project helped me strengthen my skills in AI-driven gameplay design, C++ scripting, and mission-based level flow.
 

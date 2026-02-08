@@ -2,13 +2,17 @@
 layout: post
 title: Bullet Blitz
 subtitle: Fast-Paced 2D Shooter with Intelligent Bots and Explosive Action
-# thumbnail-img: /assets/img/thumb.png
+# thumbnail-img: /assets/img/Screenshot 2025-09-29 145023.png
+# cover-img: /assets/img/thumb.png
+# cover-img: /assets/img/thumb.png
+
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [Unity, 2D, Platformer]
 comments: true
 mathjax: true
 author: Girish Patil
+
 ---
 
 <!-- success warning error note -->

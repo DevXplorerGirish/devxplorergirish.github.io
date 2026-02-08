@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operation Extraction
-subtitle: Tactical Rescue Under Fire
+subtitle: Tactical Rescue Under Time
 # thumbnail-img: /assets/img/thumb.png
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -13,14 +13,14 @@ author: Girish Patil
 
 <!-- success warning error note -->
 {: .box-success}
-**Operation Extraction** is a high-intensity rescue mission game built in Unreal Engine, where players must infiltrate enemy territory and rescue a hostage within a strict time limit. The game emphasizes tactical combat, intelligent AI systems, and time-based mission challenges that test both precision and strategy.
-The enemy soldiers are powered by Behavior Trees and Blackboard Systems, enabling them to patrol, investigate, take cover, and coordinate attacks dynamically. Players engage in realistic gunfights where every second counts, balancing stealth and aggression to complete objectives under pressure.
+**Operation Extraction** is a gameplay prototype developed in Unreal Engine, focused on building and validating core player mechanics and advanced enemy AI systems. The prototype is designed as a combat sandbox to test player control, animation systems, weapon handling, and intelligent enemy behavior, rather than a complete or story-driven game experience.
+The primary goal of this prototype is to establish solid core gameplay systems and AI-driven combat interactions. It provides a controlled environment where player mechanics and enemy responses can be iterated and refined.
 
 
 ### Key Features
 
 - **Enemy AI Behaviors** – Patrolling, chasing, attacking, and reacting to the player.
-- **Dynamic Combat** – Enemies switch between melee and ranged combat depending on the situation.
+- **Dynamic Combat** – Player can switch between melee and ranged combat depending on the situation.
 - **Perception System** – Vision and detection when the AI notices the player.
 - **Audio Awareness** – Enemies can listen for player actions, reacting to sounds like footsteps or gunfire.
 - **Cover Tactics** – AI can decide when to hide and ambush the player from cover.
@@ -28,7 +28,12 @@ The enemy soldiers are powered by Behavior Trees and Blackboard Systems, enablin
 - **Gameplay Focused on AI** – Designed specifically to demonstrate responsive and adaptive enemy AI.
 <!-- - **Optimized Performance** – C++ implementation ensures scalability for more complex AI. -->
 
-Working on Operation Extraction was an incredible experience that deepened my understanding of AI systems in Unreal Engine, especially Behavior Trees and Blackboards. I learned how to design tactical combat scenarios and structure mission objectives under time pressure. This project helped me strengthen my skills in AI-driven gameplay design, C++ scripting, and mission-based level flow.
+### Future Scope
+
+This prototype is designed as a foundation for further expansion. A time-based rescue mission is planned for a future iteration, where these systems will be extended into structured objectives and mission flow.
+
+
+Working on Operation Extraction as a prototype helped me deepen my understanding of Unreal Engine gameplay systems, particularly AI Behavior Trees, Blackboards, EQS, animation-driven locomotion, and combat mechanics. The project demonstrates my ability to prototype core systems, iterate on gameplay features, and build AI-focused combat scenarios in Unreal Engine.
 
 **Game Images**-
 

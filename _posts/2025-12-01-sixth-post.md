@@ -20,12 +20,12 @@ The core objective of this prototype is to validate gameplay logic, AI reactions
 
 ### Key Features
 
-**Environmental Interaction Systems** – Pressure plates and lever-based mechanisms used to control doors and progression.
-**Puzzle-Based Progression** – A gated objective where a door unlocks only after five crystals are placed in their grooves and a flame torch is lit.
-**Exploration-Driven Gameplay** – Players must explore the dense jungle environment to locate key items required for progression.
-**Conditional Animal AI** – Wildlife behavior changes based on the player’s equipment state.
-**AI Threat Response** – Wolves retreat when the player carries a weapon or lit torch, but chase and attack when the player is unarmed.
-**Atmospheric Level Design** – A dense, ancient jungle environment designed to increase tension and challenge through layout and visibility.
+- **Environmental Interaction Systems** – Pressure plates and lever-based mechanisms used to control doors and progression.
+- **Puzzle-Based Progression** – A gated objective where a door unlocks only after five crystals are placed in their grooves and a flame torch is lit.
+- **Exploration-Driven Gameplay** – Players must explore the dense jungle environment to locate key items required for progression.
+- **Conditional Animal AI** – Wildlife behavior changes based on the player’s equipment state.
+- **AI Threat Response** – Wolves retreat when the player carries a weapon or lit torch, but chase and attack when the player is unarmed.
+- **Atmospheric Level Design** – A dense, ancient jungle environment designed to increase tension and challenge through layout and visibility.
 
 ### Future Scope
 

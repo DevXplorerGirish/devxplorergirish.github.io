@@ -36,15 +36,15 @@ Developing Adventurious Jungle as a prototype helped me strengthen my skills in 
 
 **Game Images**-
 
-![Image 1](<../assets/img/adv/HighresScreenshot00000.png>)
+![Image 1](../assets/img/adv/HighresScreenshot00004.png)
 
 ![Image 2](../assets/img/adv/HighresScreenshot00001.png)
 
-![Image 3](../assets/img/adv/HighresScreenshot00002.png)
+![Image 3](../assets/img/adv/HighresScreenshot00005.png)
 
 ![Image 4](../assets/img/adv/HighresScreenshot00003.png)
 
-![Image 5](../assets/img/adv/HighresScreenshot00004.png)
+![Image 5](<../assets/img/adv/HighresScreenshot00000.png>)
 
 
 

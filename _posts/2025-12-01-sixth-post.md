@@ -36,14 +36,17 @@ Developing Adventurious Jungle as a prototype helped me strengthen my skills in 
 
 **Game Images**-
 
-![Image 1](<../assets/img/New folder/HighresScreenshot00004.png>)
+![Image 1](<../assets/img/adv/HighresScreenshot00000.png>)
 
-![Image 2](<../assets/img/New folder/HighresScreenshot00005.png>)
+![Image 2](../assets/img/adv/HighresScreenshot00001.png)
 
-![Image 3](<../assets/img/New folder/HighresScreenshot00012.png>)
+![Image 3](../assets/img/adv/HighresScreenshot00002.png)
 
-![Image 5](<../assets/img/New folder/HighresScreenshot00013.png>)
+![Image 4](../assets/img/adv/HighresScreenshot00003.png)
 
-![Image 4](<../assets/img/New folder/HighresScreenshot00008.png>)
+![Image 5](../assets/img/adv/HighresScreenshot00004.png)
+
+
+
 
 <!-- Thank you for reading about my journey with **Predator AI**. -->
